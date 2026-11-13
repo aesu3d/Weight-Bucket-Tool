@@ -24,6 +24,8 @@ Made to quickly fill separate mesh islands with any weight value without having 
 
 *Tip: You can also just drag and drop the `.zip` file right into Blender's 3D Viewport to install it!!*
 
+Requires Blender 4.2+, works up until the latest ver.
+
 ## How to use
 1. Select your armature, `Shift`-select your mesh, and switch to **Weight Paint** mode.
 2. Press `N` to open the sidebar and click on the **AESU** tab.
