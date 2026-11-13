@@ -1,4 +1,4 @@
-# Weight Bucket ver 1.0, made with love by Aesu <3
+# Weight Bucket ver 1.0.1, made with love by Aesu <3
 
 # dictionary
 bl_info = {
