@@ -5,19 +5,18 @@
 ![Downloads](https://img.shields.io/github/downloads/aesu3d/Weight-Bucket-Tool/total)
 
 A lightweight Blender addon that brings a "Bucket" tool to Weight Paint mode!! ^-^
-Made for riggers to quickly flood-fill separate mesh islands (like buttons, armor plates, short hair strands, or accessories) with an exact weight value—without ever having to switch to Edit Mode!
+Made to quickly fill separate mesh islands with any weight value without having to switch to Edit Mode!
 
 <img width="2054" height="1797" alt="Animation" src="https://github.com/user-attachments/assets/92f5eaa7-3870-4747-9368-eeecb4bcfa62" />
 
 ## Features
 - **Instant Island Fill:** Fill whole mesh islands in one go!! No more tabbing into Edit Mode, pressing `L` to select linked vertices, and assigning weights by hand.
 - **Easy Weight Control:** Pick and apply exact weight values (from `0.0` to `1.0`) using your brush weight or a custom value in the panel.
-- **Clean Workspace:** Lives happily in the **AESU** sidebar tab (`N`) and only shows up in Weight Paint mode to keep your UI nice and tidy!
+- **Clean Workspace:** Located in the **AESU** sidebar tab (`N`) and only shows up in Weight Paint mode to keep your UI nice and tidy!
 
 ## Installation
 1. Download the latest `.zip` from [Releases](https://github.com/aesu3d/Weight-Bucket-Tool/releases).
 2. In Blender: **Edit → Preferences → Get Extensions → ⌄** (top right dropdown) **→ Install from Disk**.
-3. Find it in the **AESU** tab in the 3D Viewport sidebar (`N`). It only shows up in Weight Paint mode to keep things clean!
 
 *Tip: You can also just drag and drop the `.zip` file right into Blender's 3D Viewport to install it!!*
 
