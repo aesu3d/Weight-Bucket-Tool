@@ -7,7 +7,7 @@
 A lightweight Blender addon that brings a "Bucket" tool to Weight Paint mode!! ^-^
 Made to quickly fill separate mesh islands with any weight value without having to switch to Edit Mode!
 
-<img width="2054" height="1797" alt="Animation" src="https://github.com/user-attachments/assets/92f5eaa7-3870-4747-9368-eeecb4bcfa62" />
+<img width="1000" alt="Animation" src="https://github.com/user-attachments/assets/92f5eaa7-3870-4747-9368-eeecb4bcfa62" />
 
 ## Features
 - **Instant Island Fill:** Fill whole mesh islands in one go!! No more tabbing into Edit Mode, pressing `L` to select linked vertices, and assigning weights by hand.
