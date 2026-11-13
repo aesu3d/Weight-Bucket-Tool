@@ -1,10 +1,10 @@
-# Weight Bucket Fill Tool ver 1.0, made with love by Aesu <3
+# Weight Bucket ver 1.0, made with love by Aesu <3
 
 # dictionary
 bl_info = {
-    "name": "Weight Bucket Fill Tool",
+    "name": "Weight Bucket",
     "author": "Aesu3D",
-    "version": (1, 0, 0),
+    "version": (1, 0, 1),
     "blender": (4, 2, 0),
     "location": "Weight Paint mode > Alt+F, or Sidebar (N) > AESU > Weight Bucket",
     "description": "Fill a whole mesh island (like L-select) with weight, like a paint bucket",
@@ -409,7 +409,7 @@ class WBUCKET_OT_mode(bpy.types.Operator):
 
 # sidebar
 class WBUCKET_PT_panel(bpy.types.Panel):
-    bl_label = "Weight Bucket Tool"
+    bl_label = "Weight Bucket"
     bl_space_type = "VIEW_3D"
     bl_region_type = "UI"
     bl_category = "AESU"

@@ -1,7 +1,7 @@
 schema_version = "1.0.0"
 
 id = "weight_bucket"
-version = "1.0.0"
+version = "1.0.1"
 name = "Weight Bucket"
 tagline = "Fill whole mesh islands with weight, like a paint bucket"
 maintainer = "Aesu3D"
