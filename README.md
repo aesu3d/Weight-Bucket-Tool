@@ -13,6 +13,10 @@ Made to quickly fill separate mesh islands with any weight value without having 
 - **Instant Island Fill:** Fill whole mesh islands in one go!! No more tabbing into Edit Mode, pressing `L` to select linked vertices, and assigning weights by hand.
 - **Easy Weight Control:** Pick and apply exact weight values (from `0.0` to `1.0`) using your brush weight or a custom value in the panel.
 - **Clean Workspace:** Located in the **AESU** sidebar tab (`N`) and only shows up in Weight Paint mode to keep your UI nice and tidy!
+- **Replace / Add / Subtract modes**
+- **Mirror X**, fills a mirrored island too
+- **Normalize**
+- Works on posed meshes and skips hidden faces!
 
 ## Installation
 1. Download the latest `.zip` from [Releases](https://github.com/aesu3d/Weight-Bucket-Tool/releases).
