@@ -19,7 +19,7 @@ Made to quickly fill separate mesh islands with any weight value without having 
 - Works on posed meshes and skips hidden faces!
 
 ## Installation
-1. Download the latest `.zip` from [Releases](https://github.com/aesu3d/Weight-Bucket-Tool/releases).
+1. Download the latest `.zip` from [Releases](https://github.com/aesu3d/Weight-Bucket-Tool/releases)
 2. In Blender: **Edit → Preferences → Get Extensions → ⌄** (top right dropdown) **→ Install from Disk**.
 
 *Tip: You can also just drag and drop the `.zip` file right into Blender's 3D Viewport to install it!!*
