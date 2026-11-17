@@ -1,10 +1,10 @@
-# Weight Bucket ver 1.0, made with love by Aesu <3
+# Weight Bucket ver 1.0.1, made with love by Aesu <3
 
 # dictionary
 bl_info = {
     "name": "Weight Bucket",
     "author": "Aesu3D",
-    "version": (1, 0, 1),
+    "version": (1, 0, 2),
     "blender": (4, 2, 0),
     "location": "Weight Paint mode > Alt+F, or Sidebar (N) > AESU > Weight Bucket",
     "description": "Fill a whole mesh island (like L-select) with weight, like a paint bucket",

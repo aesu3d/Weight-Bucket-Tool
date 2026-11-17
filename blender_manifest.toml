@@ -1,13 +1,13 @@
 schema_version = "1.0.0"
 
 id = "weight_bucket"
-version = "1.0.1"
+version = "1.0.2"
 name = "Weight Bucket"
 tagline = "Fill whole mesh islands with weight, like a paint bucket"
 maintainer = "Aesu3D"
 type = "add-on"
 website = "https://aesu3d.com"
-tags = ["Paint", "Rigging", "Mesh"]
+tags = ["Rigging"]
 
 blender_version_min = "4.2.0"
 
